@@ -4,9 +4,9 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-A short description of the project.
+Identify fraudulent financial transactions using machine learning techniques to protect the bank’s assets and customers.
 
-## Project Organization
+## Case Study: Financial Transaction Fraud Detection
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
