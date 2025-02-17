@@ -1,12 +1,13 @@
-# sb_fraud_model
+# gt_propensity_model
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Identify fraudulent financial transactions using machine learning techniques to protect the bank’s assets and customers.
+The main aim of the model is to classify whether a customer will take up the sales offer or not when we cold call them, so the better we discriminate between who will be more likely to take up the offer and who will not, can help our client to better optimise their internal efforts in terms of cold calling the right customer in order to convert those calls to sales
 
-## Case Study: Financial Transaction Fraud Detection
+
+## Case Study: Customer Propensity
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
